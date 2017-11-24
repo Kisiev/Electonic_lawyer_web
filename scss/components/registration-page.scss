@@ -1,0 +1,58 @@
+.reg-form
+{
+	width: 250px;
+	margin: 0 auto;
+	background-color: #FDFDFD;
+	text-align: center;
+	padding: 20px;
+
+	
+
+}
+section
+{
+	background-color: #FDFDFD;
+}
+.reg-link__wrapper
+{
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.input
+{
+	width: 100%;
+	margin-bottom: 20px;
+	height: 38px;
+	text-align: center;
+	border-radius: 7px;
+	box-shadow: 2px 2px #DFDFDF;
+}
+.reg-form__input
+{
+	border:1px solid #F3F3F3;
+}
+
+
+.reg-form__button 
+{
+	border:none;
+	background-color: #0030FF;
+	color: white;
+	text-transform: uppercase;
+}
+.registration
+{
+	height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.reg-form__circle
+{
+	width: 120px;
+	height: 120px;
+	margin: 30px auto;
+	margin-bottom: 50px;
+	border-radius: 100%;
+	background-color:#0030FF ;
+}
